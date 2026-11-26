@@ -1,0 +1,15 @@
+{
+  "name": "mf-skip-meeting-excuse",
+  "version": "1.0.0",
+  "description": "Zero-dependency Node 22 entry: one funny excuse for skipping a pointless meeting.",
+  "type": "module",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "start": "node main.ts",
+    "verify": "node scripts/verify.ts"
+  },
+  "engines": {
+    "node": ">=22.18.0"
+  }
+}
